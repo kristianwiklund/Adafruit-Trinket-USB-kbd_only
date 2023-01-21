@@ -1,3 +1,9 @@
+
+# Changes to the original
+
+This fork contains _only_ the keyboard driver, and has been very, very slightly modified to compile with platformio (an "end" was removed from an .asm file) - everything else is identical to the original.
+
+
 # Adafruit-Trinket-USB
 Arduino libraries allowing Trinket to act as USB devices
 
